@@ -150,7 +150,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Faisal**
 
 - GitHub: [@githubhandle](https://github.com/faisalakb)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
